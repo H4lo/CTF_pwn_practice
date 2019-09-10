@@ -1,3 +1,5 @@
+# 考点：绕过 prctl 沙箱规则，栈上 ROP 的 syscall 调用
+
 #!/usr/bin/python2
 # -*- coding:utf-8 -*-
 
